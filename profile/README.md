@@ -1,4 +1,4 @@
-# 🏢 ChunjaeCorp Team Digital Learning
+# 🏢 천재교육
 
 ## 📝 부서명
 
