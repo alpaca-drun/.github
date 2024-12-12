@@ -6,38 +6,29 @@
 (주)천재교육 디지털사업본부 디지털러닝팀
 ```
 
-## 💡 진행중인 프로젝트
-
-| 프로젝트 명 |                  설명                  |       작업 현황        |
-| :---------: | :------------------------------------: | :--------------------: | ---------------------- |
-| KDT_Landing |    천재IT교육센터 렌딩 페이지 제작     | 24.02.02 ~ 작업 진행중 |
-|   KDT_LMS   | 천재IT교육센터 교육생 대상 러닝 서비스 |                        | 24.04.12 ~ 작업 진행중 |
-|  프로젝트1  |           작성 부탁드립니다.           |   작성 부탁드립니다.   |
-|  프로젝트2  |           작성 부탁드립니다.           |   작성 부탁드립니다.   |
-|  프로젝트3  |           작성 부탁드립니다.           |   작성 부탁드립니다.   |
-
 ## 🧑‍🦲 팀원(가나다순)
 
 <table>
   <tbody>
   <th>
     <tr>
-      <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>김수빈</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>박예원</b></sub></a><br /></td>
-            <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>정도환</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/soocong1015"><img src="https://avatars.githubusercontent.com/u/126541464?v=4" width="100px;" alt=""/><br /><sub><b>김수빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yewon4540"><img src="https://avatars.githubusercontent.com/u/118233694?v=4" width="100px;" alt=""/><br /><sub><b>박예원</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yuusakuu"><img src="https://avatars.githubusercontent.com/u/126541520?v=4" width="100px;" alt=""/><br /><sub><b>정도환</b></sub></a><br /></td>
     </tr>
   </th>
     <tr>
-      <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>김현경</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>황교진</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/rosieoh"><img src="https://github.com/ECO-TVY/.github/assets/104690434/69313dae-3288-47d1-aec3-f5314eb32fa3" width="100px;" alt=""/><br /><sub><b>이형석</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/h0725j"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>전혁선</b></sub></a><br /></td>
-            <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>현동호</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>권홍준</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/rosieoh"><img src="https://github.com/ECO-TVY/.github/assets/104690434/69313dae-3288-47d1-aec3-f5314eb32fa3" width="100px;" alt=""/><br /><sub><b>변재혁</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/h0725j"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>류림</b></sub></a><br /></td>
-            <td align="center"><a href="https://github.com/h0725j"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>조서현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/rosieoh"><img src="https://github.com/ECO-TVY/.github/assets/104690434/69313dae-3288-47d1-aec3-f5314eb32fa3" width="100px;" alt=""/><br /><sub><b>조현기</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/beubeu95"><img src="https://avatars.githubusercontent.com/u/138674233?v=4" width="100px;" alt=""/><br /><sub><b>김현경</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sendjin5"><img src="https://avatars.githubusercontent.com/u/139240093?v=4" width="100px;" alt=""/><br /><sub><b>황교진</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lhshs"><img src="https://avatars.githubusercontent.com/u/59005236?v=4" width="100px;" alt=""/><br /><sub><b>이형석</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jhs9129"><img src="https://avatars.githubusercontent.com/u/139462268?v=4" width="100px;" alt=""/><br /><sub><b>전혁선</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/donghohyun"><img src="https://avatars.githubusercontent.com/u/139213175?v=4" width="100px;" alt=""/><br /><sub><b>현동호</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/k-3730"><img src="https://avatars.githubusercontent.com/u/45035923?v=4" width="100px;" alt=""/><br /><sub><b>권홍준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jaehyukpyon2"><img src="https://avatars.githubusercontent.com/u/145942491?v=4" width="100px;" alt=""/><br /><sub><b>변재혁</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Ryurim"><img src="https://avatars.githubusercontent.com/u/42962606?v=4" width="100px;" alt=""/><br /><sub><b>류림</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/westnowise"><img src="https://avatars.githubusercontent.com/u/98007431?v=4" width="100px;" alt=""/><br /><sub><b>조서현</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/2shin0"><img src="https://avatars.githubusercontent.com/u/161694701?v=4"  width="100px;" alt=""/><br /><sub><b>이신영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/glassesholder"><img src="https://avatars.githubusercontent.com/u/150658909?v=4"  width="100px;" alt=""/><br /><sub><b>이신영</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
