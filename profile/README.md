@@ -11,7 +11,6 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/soocong1015"><img src="https://avatars.githubusercontent.com/u/126541464?v=4" width="100px;" alt=""/><br /><sub><b>김수빈</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/yewon4540"><img src="https://avatars.githubusercontent.com/u/118233694?v=4" width="100px;" alt=""/><br /><sub><b>박예원</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/yuusakuu"><img src="https://avatars.githubusercontent.com/u/126541520?v=4" width="100px;" alt=""/><br /><sub><b>정도환</b></sub></a><br /></td>
     </tr>
