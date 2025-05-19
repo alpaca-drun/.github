@@ -11,14 +11,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/yewon4540"><img src="https://avatars.githubusercontent.com/u/118233694?v=4" width="100px;" alt=""/><br /><sub><b>박예원</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/yuusakuu"><img src="https://avatars.githubusercontent.com/u/126541520?v=4" width="100px;" alt=""/><br /><sub><b>정도환</b></sub></a><br /></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/beubeu95"><img src="https://avatars.githubusercontent.com/u/138674233?v=4" width="100px;" alt=""/><br /><sub><b>김현경</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sendjin5"><img src="https://avatars.githubusercontent.com/u/139240093?v=4" width="100px;" alt=""/><br /><sub><b>황교진</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/lhshs"><img src="https://avatars.githubusercontent.com/u/59005236?v=4" width="100px;" alt=""/><br /><sub><b>이형석</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/jhs9129"><img src="https://avatars.githubusercontent.com/u/139462268?v=4" width="100px;" alt=""/><br /><sub><b>전혁선</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/donghohyun"><img src="https://avatars.githubusercontent.com/u/139213175?v=4" width="100px;" alt=""/><br /><sub><b>현동호</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/k-3730"><img src="https://avatars.githubusercontent.com/u/45035923?v=4" width="100px;" alt=""/><br /><sub><b>권홍준</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/jaehyukpyon2"><img src="https://avatars.githubusercontent.com/u/145942491?v=4" width="100px;" alt=""/><br /><sub><b>변재혁</b></sub></a><br /></td>
