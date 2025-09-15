@@ -22,8 +22,7 @@
       <td align="center"><a href="https://github.com/jaehyukpyon2"><img src="https://avatars.githubusercontent.com/u/145942491?v=4" width="100px;" alt=""/><br /><sub><b>변재혁</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Ryurim"><img src="https://avatars.githubusercontent.com/u/42962606?v=4" width="100px;" alt=""/><br /><sub><b>류림</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/westnowise"><img src="https://avatars.githubusercontent.com/u/98007431?v=4" width="100px;" alt=""/><br /><sub><b>조서현</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/2shin0"><img src="https://avatars.githubusercontent.com/u/161694701?v=4"  width="100px;" alt=""/><br /><sub><b>이신영</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/glassesholder"><img src="https://avatars.githubusercontent.com/u/150658909?v=4"  width="100px;" alt=""/><br /><sub><b>이효준</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
+
